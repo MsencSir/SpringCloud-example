@@ -1,0 +1,3 @@
+feign:
+  login:
+    service: alibaba-nacos-server  #此配置为feign接口服务器名 此配置完全可以配置再nacos中心
